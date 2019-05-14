@@ -1,0 +1,2 @@
+# JavaRush
+Задачи по JavaRush
